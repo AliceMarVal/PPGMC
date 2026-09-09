@@ -1,0 +1,1599 @@
+especie,latitude_centro,latitude_min,latitude_max,regiao_geografica,codigo,categoria
+Eubalaena glacialis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Eubalaena glacialis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Eubalaena glacialis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Eubalaena glacialis,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Eubalaena glacialis,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Eubalaena glacialis,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Eubalaena glacialis,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena glacialis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Eubalaena glacialis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena glacialis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena glacialis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena glacialis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena glacialis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena glacialis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Eubalaena glacialis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Eubalaena glacialis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Eubalaena glacialis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Eubalaena glacialis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Eubalaena glacialis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Eubalaena japonica,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Eubalaena japonica,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Eubalaena japonica,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Eubalaena japonica,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Eubalaena japonica,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Eubalaena japonica,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Eubalaena japonica,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Eubalaena japonica,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eubalaena japonica,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Eubalaena japonica,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Eubalaena japonica,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena japonica,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena japonica,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eubalaena japonica,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eubalaena japonica,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Eubalaena japonica,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Eubalaena japonica,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Eubalaena japonica,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Eubalaena japonica,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Eubalaena japonica,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Balaenoptera acutorostrata,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera acutorostrata,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Balaenoptera acutorostrata,77.5,75.0,80.0,Artico,2,coberto_por_censo
+Balaenoptera acutorostrata,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Balaenoptera acutorostrata,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Balaenoptera acutorostrata,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera acutorostrata,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera acutorostrata,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera acutorostrata,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera acutorostrata,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera acutorostrata,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera acutorostrata,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera acutorostrata,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera acutorostrata,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Balaenoptera acutorostrata,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Balaenoptera acutorostrata,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Balaenoptera acutorostrata,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Balaenoptera acutorostrata,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Balaenoptera acutorostrata,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Balaenoptera borealis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera borealis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Balaenoptera borealis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Balaenoptera borealis,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Balaenoptera borealis,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Balaenoptera borealis,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera borealis,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera borealis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera borealis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera borealis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera borealis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera borealis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera borealis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera borealis,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Balaenoptera borealis,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Balaenoptera borealis,-62.5,-65.0,-60.0,Subantartico,1,distribuicao_prevista
+Balaenoptera borealis,-67.5,-70.0,-65.0,Antartica,1,distribuicao_prevista
+Balaenoptera borealis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Balaenoptera borealis,-77.5,-80.0,-75.0,Antartica,1,distribuicao_prevista
+Balaenoptera brydei,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera brydei,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Balaenoptera brydei,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Balaenoptera brydei,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Balaenoptera brydei,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Balaenoptera brydei,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera brydei,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera brydei,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera brydei,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera brydei,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera brydei,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera brydei,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera brydei,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera brydei,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera brydei,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera brydei,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera brydei,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera brydei,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera brydei,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera brydei,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Balaenoptera brydei,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera brydei,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera brydei,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera brydei,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Balaenoptera brydei,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Balaenoptera brydei,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Balaenoptera edeni,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera edeni,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Balaenoptera edeni,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Balaenoptera edeni,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Balaenoptera edeni,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Balaenoptera edeni,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera edeni,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera edeni,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera edeni,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera edeni,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Balaenoptera edeni,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera edeni,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera edeni,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera edeni,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera edeni,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera edeni,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera edeni,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera edeni,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera edeni,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera edeni,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera edeni,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera edeni,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera edeni,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera edeni,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera edeni,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera edeni,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera edeni,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera edeni,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Balaenoptera edeni,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera edeni,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera edeni,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Balaenoptera edeni,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Balaenoptera edeni,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Balaenoptera edeni,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Balaenoptera musculus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera musculus,82.5,80.0,85.0,Artico,1,distribuicao_prevista
+Balaenoptera musculus,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Balaenoptera musculus,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Balaenoptera musculus,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Balaenoptera musculus,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera musculus,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera musculus,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Balaenoptera musculus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera musculus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera musculus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera musculus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera musculus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera musculus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera musculus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera musculus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera musculus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera musculus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera musculus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera musculus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera musculus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera musculus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera musculus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera musculus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera musculus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Balaenoptera musculus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera musculus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera musculus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera musculus,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Balaenoptera musculus,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Balaenoptera musculus,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Balaenoptera musculus,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Balaenoptera musculus,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Balaenoptera musculus,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Balaenoptera physalus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Balaenoptera physalus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Balaenoptera physalus,77.5,75.0,80.0,Artico,2,coberto_por_censo
+Balaenoptera physalus,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Balaenoptera physalus,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Balaenoptera physalus,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Balaenoptera physalus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera physalus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Balaenoptera physalus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Balaenoptera physalus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Balaenoptera physalus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Balaenoptera physalus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Balaenoptera physalus,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Balaenoptera physalus,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Balaenoptera physalus,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Balaenoptera physalus,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Balaenoptera physalus,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Balaenoptera physalus,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Megaptera novaeangliae,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Megaptera novaeangliae,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Megaptera novaeangliae,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Megaptera novaeangliae,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Megaptera novaeangliae,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Megaptera novaeangliae,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Megaptera novaeangliae,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Megaptera novaeangliae,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Megaptera novaeangliae,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Megaptera novaeangliae,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Megaptera novaeangliae,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Megaptera novaeangliae,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Megaptera novaeangliae,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Megaptera novaeangliae,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Megaptera novaeangliae,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Megaptera novaeangliae,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Megaptera novaeangliae,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Megaptera novaeangliae,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Megaptera novaeangliae,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Megaptera novaeangliae,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Megaptera novaeangliae,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Megaptera novaeangliae,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Megaptera novaeangliae,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Megaptera novaeangliae,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Megaptera novaeangliae,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Megaptera novaeangliae,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Megaptera novaeangliae,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Eschrichtius robustus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Eschrichtius robustus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Eschrichtius robustus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Eschrichtius robustus,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Eschrichtius robustus,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Eschrichtius robustus,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Eschrichtius robustus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Eschrichtius robustus,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Eschrichtius robustus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eschrichtius robustus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eschrichtius robustus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eschrichtius robustus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eschrichtius robustus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Eschrichtius robustus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Eschrichtius robustus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Eschrichtius robustus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Eschrichtius robustus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Eschrichtius robustus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Eschrichtius robustus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Eschrichtius robustus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Delphinus capensis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Delphinus capensis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Delphinus capensis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Delphinus capensis,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Delphinus capensis,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Delphinus capensis,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinus capensis,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinus capensis,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinus capensis,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinus capensis,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Delphinus capensis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus capensis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus capensis,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Delphinus capensis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Delphinus capensis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Delphinus capensis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Delphinus capensis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Delphinus capensis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Delphinus capensis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus capensis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinus capensis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Delphinus capensis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Delphinus capensis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Delphinus capensis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Delphinus capensis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Delphinus capensis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Delphinus delphis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Delphinus delphis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Delphinus delphis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Delphinus delphis,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Delphinus delphis,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Delphinus delphis,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinus delphis,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinus delphis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Delphinus delphis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Delphinus delphis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Delphinus delphis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Delphinus delphis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Delphinus delphis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Delphinus delphis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Delphinus delphis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Delphinus delphis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Delphinus delphis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Delphinus delphis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Delphinus delphis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Delphinus delphis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Delphinus delphis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Delphinus delphis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Delphinus delphis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Feresa attenuata,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Feresa attenuata,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Feresa attenuata,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Feresa attenuata,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Feresa attenuata,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Feresa attenuata,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Feresa attenuata,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Feresa attenuata,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Feresa attenuata,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Feresa attenuata,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Feresa attenuata,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Feresa attenuata,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Feresa attenuata,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Feresa attenuata,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Feresa attenuata,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Feresa attenuata,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Feresa attenuata,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Feresa attenuata,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Feresa attenuata,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Feresa attenuata,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Feresa attenuata,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Feresa attenuata,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Feresa attenuata,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Feresa attenuata,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Feresa attenuata,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Feresa attenuata,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Feresa attenuata,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Feresa attenuata,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Feresa attenuata,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Feresa attenuata,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Feresa attenuata,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Feresa attenuata,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Feresa attenuata,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Feresa attenuata,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Globicephala macrorhynchus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Globicephala macrorhynchus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Globicephala macrorhynchus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Globicephala macrorhynchus,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Globicephala macrorhynchus,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Globicephala macrorhynchus,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Globicephala macrorhynchus,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala macrorhynchus,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala macrorhynchus,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala macrorhynchus,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala macrorhynchus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala macrorhynchus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala macrorhynchus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala macrorhynchus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Globicephala macrorhynchus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Globicephala macrorhynchus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Globicephala macrorhynchus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Globicephala macrorhynchus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Globicephala macrorhynchus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala macrorhynchus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Globicephala macrorhynchus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Globicephala macrorhynchus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Globicephala macrorhynchus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Globicephala macrorhynchus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Globicephala macrorhynchus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Globicephala melas,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Globicephala melas,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Globicephala melas,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Globicephala melas,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Globicephala melas,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Globicephala melas,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala melas,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala melas,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala melas,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Globicephala melas,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala melas,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala melas,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala melas,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Globicephala melas,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Globicephala melas,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Globicephala melas,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Globicephala melas,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Globicephala melas,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Globicephala melas,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Globicephala melas,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Globicephala melas,-52.5,-55.0,-50.0,Subantartico,2,coberto_por_censo
+Globicephala melas,-57.5,-60.0,-55.0,Subantartico,2,coberto_por_censo
+Globicephala melas,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Globicephala melas,-67.5,-70.0,-65.0,Antartica,3,censo_fora_da_distribuicao
+Globicephala melas,-72.5,-75.0,-70.0,Antartica,3,censo_fora_da_distribuicao
+Globicephala melas,-77.5,-80.0,-75.0,Antartica,3,censo_fora_da_distribuicao
+Grampus griseus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Grampus griseus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Grampus griseus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Grampus griseus,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Grampus griseus,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Grampus griseus,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Grampus griseus,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Grampus griseus,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Grampus griseus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Grampus griseus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Grampus griseus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Grampus griseus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Grampus griseus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Grampus griseus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Grampus griseus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Grampus griseus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Grampus griseus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Grampus griseus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Grampus griseus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Grampus griseus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Grampus griseus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Grampus griseus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Grampus griseus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Grampus griseus,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Grampus griseus,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Grampus griseus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Grampus griseus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Grampus griseus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Grampus griseus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lagenodelphis hosei,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenodelphis hosei,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenodelphis hosei,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lagenodelphis hosei,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Lagenodelphis hosei,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Lagenodelphis hosei,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenodelphis hosei,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenodelphis hosei,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenodelphis hosei,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenodelphis hosei,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenodelphis hosei,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenodelphis hosei,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenodelphis hosei,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenodelphis hosei,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Lagenodelphis hosei,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Lagenodelphis hosei,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Lagenodelphis hosei,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Lagenodelphis hosei,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Lagenodelphis hosei,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Lagenodelphis hosei,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Lagenodelphis hosei,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Lagenodelphis hosei,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenodelphis hosei,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenodelphis hosei,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenodelphis hosei,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenodelphis hosei,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenodelphis hosei,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenodelphis hosei,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenodelphis hosei,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Lagenodelphis hosei,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Lagenodelphis hosei,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Lagenodelphis hosei,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lagenodelphis hosei,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lagenodelphis hosei,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus acutus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus acutus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus acutus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus acutus,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Lagenorhynchus acutus,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Lagenorhynchus acutus,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus acutus,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus acutus,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus acutus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Lagenorhynchus acutus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus acutus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus acutus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus acutus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus acutus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus acutus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus acutus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus acutus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus acutus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus acutus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus acutus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus albirostris,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus albirostris,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus albirostris,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Lagenorhynchus albirostris,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Lagenorhynchus albirostris,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Lagenorhynchus albirostris,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus albirostris,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus albirostris,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus albirostris,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus albirostris,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus albirostris,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus albirostris,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus albirostris,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus albirostris,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus albirostris,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus albirostris,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus albirostris,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus albirostris,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus albirostris,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus albirostris,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus albirostris,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus albirostris,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus albirostris,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus albirostris,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus cruciger,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus cruciger,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus cruciger,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus cruciger,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus cruciger,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus cruciger,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,37.5,35.0,40.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus cruciger,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus cruciger,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus cruciger,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus cruciger,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus cruciger,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus cruciger,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus cruciger,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus cruciger,-52.5,-55.0,-50.0,Subantartico,2,coberto_por_censo
+Lagenorhynchus cruciger,-57.5,-60.0,-55.0,Subantartico,2,coberto_por_censo
+Lagenorhynchus cruciger,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Lagenorhynchus cruciger,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Lagenorhynchus cruciger,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Lagenorhynchus cruciger,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Lagenorhynchus obliquidens,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus obliquidens,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus obliquidens,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus obliquidens,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus obliquidens,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus obliquidens,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus obliquidens,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lagenorhynchus obliquidens,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lagenorhynchus obliquidens,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Lagenorhynchus obliquidens,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Lagenorhynchus obliquidens,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus obliquidens,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus obscurus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obscurus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obscurus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obscurus,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obscurus,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Lagenorhynchus obscurus,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,37.5,35.0,40.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lagenorhynchus obscurus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obscurus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obscurus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obscurus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obscurus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lagenorhynchus obscurus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lagenorhynchus obscurus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Lagenorhynchus obscurus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Lagenorhynchus obscurus,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Lagenorhynchus obscurus,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Lagenorhynchus obscurus,-62.5,-65.0,-60.0,Subantartico,1,distribuicao_prevista
+Lagenorhynchus obscurus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus obscurus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lagenorhynchus obscurus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Lissodelphis borealis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Lissodelphis borealis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Lissodelphis borealis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Lissodelphis borealis,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Lissodelphis borealis,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Lissodelphis borealis,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Lissodelphis borealis,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lissodelphis borealis,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lissodelphis borealis,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lissodelphis borealis,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lissodelphis borealis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lissodelphis borealis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Lissodelphis borealis,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Lissodelphis borealis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Lissodelphis borealis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Lissodelphis borealis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lissodelphis borealis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lissodelphis borealis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Lissodelphis borealis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Lissodelphis borealis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Lissodelphis borealis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Lissodelphis borealis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Lissodelphis borealis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Lissodelphis borealis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Lissodelphis borealis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Orcinus orca,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Orcinus orca,82.5,80.0,85.0,Artico,1,distribuicao_prevista
+Orcinus orca,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Orcinus orca,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Orcinus orca,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Orcinus orca,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Orcinus orca,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Orcinus orca,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Orcinus orca,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Orcinus orca,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Orcinus orca,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Orcinus orca,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Orcinus orca,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Orcinus orca,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Orcinus orca,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Orcinus orca,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Orcinus orca,-52.5,-55.0,-50.0,Subantartico,2,coberto_por_censo
+Orcinus orca,-57.5,-60.0,-55.0,Subantartico,2,coberto_por_censo
+Orcinus orca,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Orcinus orca,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Orcinus orca,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Orcinus orca,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Peponocephala electra,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Peponocephala electra,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Peponocephala electra,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Peponocephala electra,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Peponocephala electra,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Peponocephala electra,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Peponocephala electra,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Peponocephala electra,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Peponocephala electra,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Peponocephala electra,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Peponocephala electra,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Peponocephala electra,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Peponocephala electra,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Peponocephala electra,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Peponocephala electra,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Peponocephala electra,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Peponocephala electra,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Peponocephala electra,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Peponocephala electra,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Peponocephala electra,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Peponocephala electra,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Peponocephala electra,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Peponocephala electra,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Peponocephala electra,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Peponocephala electra,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Peponocephala electra,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Peponocephala electra,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Peponocephala electra,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Peponocephala electra,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Peponocephala electra,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Peponocephala electra,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Peponocephala electra,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Peponocephala electra,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Peponocephala electra,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Pseudorca crassidens,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Pseudorca crassidens,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Pseudorca crassidens,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Pseudorca crassidens,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Pseudorca crassidens,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Pseudorca crassidens,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pseudorca crassidens,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Pseudorca crassidens,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Pseudorca crassidens,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Pseudorca crassidens,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Pseudorca crassidens,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Pseudorca crassidens,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Pseudorca crassidens,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Pseudorca crassidens,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Pseudorca crassidens,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Pseudorca crassidens,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Pseudorca crassidens,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Pseudorca crassidens,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Pseudorca crassidens,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Pseudorca crassidens,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Pseudorca crassidens,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Pseudorca crassidens,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pseudorca crassidens,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Pseudorca crassidens,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Pseudorca crassidens,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Pseudorca crassidens,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Pseudorca crassidens,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Pseudorca crassidens,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Stenella attenuata,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Stenella attenuata,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Stenella attenuata,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Stenella attenuata,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Stenella attenuata,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Stenella attenuata,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella attenuata,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella attenuata,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella attenuata,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella attenuata,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella attenuata,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella attenuata,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella attenuata,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella attenuata,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella attenuata,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella attenuata,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella attenuata,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella attenuata,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella attenuata,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella attenuata,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella attenuata,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella attenuata,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella attenuata,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella attenuata,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Stenella attenuata,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Stenella attenuata,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Stenella attenuata,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Stenella attenuata,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Stenella attenuata,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Stenella clymene,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Stenella clymene,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Stenella clymene,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Stenella clymene,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Stenella clymene,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Stenella clymene,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella clymene,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella clymene,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella clymene,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella clymene,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella clymene,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella clymene,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella clymene,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella clymene,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella clymene,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella clymene,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella clymene,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella clymene,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella clymene,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella clymene,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella clymene,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella clymene,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella clymene,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Stenella clymene,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Stenella clymene,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Stenella clymene,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Stenella clymene,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Stenella clymene,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Stenella coeruleoalba,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Stenella coeruleoalba,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Stenella coeruleoalba,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Stenella coeruleoalba,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Stenella coeruleoalba,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Stenella coeruleoalba,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella coeruleoalba,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella coeruleoalba,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella coeruleoalba,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella coeruleoalba,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella coeruleoalba,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella coeruleoalba,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella coeruleoalba,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella coeruleoalba,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella coeruleoalba,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella coeruleoalba,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella coeruleoalba,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella coeruleoalba,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella coeruleoalba,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella coeruleoalba,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella coeruleoalba,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella coeruleoalba,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella coeruleoalba,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella coeruleoalba,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Stenella coeruleoalba,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Stenella coeruleoalba,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Stenella coeruleoalba,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Stenella coeruleoalba,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Stenella coeruleoalba,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Stenella frontalis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Stenella frontalis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Stenella frontalis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Stenella frontalis,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Stenella frontalis,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Stenella frontalis,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella frontalis,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella frontalis,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella frontalis,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella frontalis,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella frontalis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella frontalis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella frontalis,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella frontalis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella frontalis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella frontalis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella frontalis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella frontalis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Stenella frontalis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella frontalis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella frontalis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Stenella frontalis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Stenella frontalis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Stenella frontalis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Stenella frontalis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Stenella frontalis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Stenella longirostris,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Stenella longirostris,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Stenella longirostris,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Stenella longirostris,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Stenella longirostris,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Stenella longirostris,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella longirostris,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella longirostris,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella longirostris,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Stenella longirostris,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella longirostris,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella longirostris,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Stenella longirostris,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Stenella longirostris,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella longirostris,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella longirostris,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella longirostris,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella longirostris,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Stenella longirostris,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella longirostris,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella longirostris,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Stenella longirostris,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Stenella longirostris,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Stenella longirostris,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Stenella longirostris,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Stenella longirostris,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Stenella longirostris,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Stenella longirostris,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Stenella longirostris,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Steno bredanensis,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Steno bredanensis,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Steno bredanensis,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Steno bredanensis,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Steno bredanensis,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Steno bredanensis,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Steno bredanensis,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Steno bredanensis,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Steno bredanensis,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Steno bredanensis,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Steno bredanensis,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Steno bredanensis,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Steno bredanensis,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Steno bredanensis,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Steno bredanensis,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Steno bredanensis,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Steno bredanensis,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Steno bredanensis,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Steno bredanensis,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Steno bredanensis,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Steno bredanensis,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Steno bredanensis,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Steno bredanensis,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Steno bredanensis,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Steno bredanensis,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Steno bredanensis,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Steno bredanensis,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Steno bredanensis,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Steno bredanensis,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Steno bredanensis,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Steno bredanensis,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Steno bredanensis,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Steno bredanensis,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Steno bredanensis,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Tursiops truncatus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Tursiops truncatus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Tursiops truncatus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Tursiops truncatus,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Tursiops truncatus,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Tursiops truncatus,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Tursiops truncatus,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Tursiops truncatus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Tursiops truncatus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Tursiops truncatus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Tursiops truncatus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Tursiops truncatus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Tursiops truncatus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Tursiops truncatus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Tursiops truncatus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Tursiops truncatus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Tursiops truncatus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Tursiops truncatus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Tursiops truncatus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Tursiops truncatus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Tursiops truncatus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Tursiops truncatus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Tursiops truncatus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Neophocaena phocaenoides,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Neophocaena phocaenoides,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Neophocaena phocaenoides,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Neophocaena phocaenoides,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Neophocaena phocaenoides,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Neophocaena phocaenoides,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Neophocaena phocaenoides,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Neophocaena phocaenoides,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Neophocaena phocaenoides,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Neophocaena phocaenoides,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Neophocaena phocaenoides,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Neophocaena phocaenoides,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Neophocaena phocaenoides,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Neophocaena phocaenoides,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Neophocaena phocaenoides,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Neophocaena phocaenoides,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Neophocaena phocaenoides,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Neophocaena phocaenoides,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Neophocaena phocaenoides,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Neophocaena phocaenoides,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Neophocaena phocaenoides,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Neophocaena phocaenoides,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Neophocaena phocaenoides,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Neophocaena phocaenoides,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Neophocaena phocaenoides,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Neophocaena phocaenoides,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Neophocaena phocaenoides,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Phocoena phocoena,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Phocoena phocoena,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Phocoena phocoena,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Phocoena phocoena,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Phocoena phocoena,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Phocoena phocoena,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoena phocoena,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Phocoena phocoena,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Phocoena phocoena,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoena phocoena,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoena phocoena,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoena phocoena,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoena phocoena,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoena phocoena,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Phocoena phocoena,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Phocoena phocoena,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Phocoena phocoena,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Phocoena phocoena,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Phocoena phocoena,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Phocoenoides dalli,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Phocoenoides dalli,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Phocoenoides dalli,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Phocoenoides dalli,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Phocoenoides dalli,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Phocoenoides dalli,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Phocoenoides dalli,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Phocoenoides dalli,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoenoides dalli,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoenoides dalli,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoenoides dalli,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoenoides dalli,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Phocoenoides dalli,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Phocoenoides dalli,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Phocoenoides dalli,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Phocoenoides dalli,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Phocoenoides dalli,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Phocoenoides dalli,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Phocoenoides dalli,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Physeter macrocephalus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Physeter macrocephalus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Physeter macrocephalus,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Physeter macrocephalus,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Physeter macrocephalus,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Physeter macrocephalus,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Physeter macrocephalus,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Physeter macrocephalus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Physeter macrocephalus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Physeter macrocephalus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Physeter macrocephalus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Physeter macrocephalus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Physeter macrocephalus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Physeter macrocephalus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Physeter macrocephalus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Physeter macrocephalus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Physeter macrocephalus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Physeter macrocephalus,-52.5,-55.0,-50.0,Subantartico,2,coberto_por_censo
+Physeter macrocephalus,-57.5,-60.0,-55.0,Subantartico,2,coberto_por_censo
+Physeter macrocephalus,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Physeter macrocephalus,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Physeter macrocephalus,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Physeter macrocephalus,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Kogia breviceps,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Kogia breviceps,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Kogia breviceps,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Kogia breviceps,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Kogia breviceps,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Kogia breviceps,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Kogia breviceps,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia breviceps,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Kogia breviceps,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia breviceps,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia breviceps,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Kogia breviceps,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Kogia breviceps,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Kogia breviceps,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia breviceps,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Kogia breviceps,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Kogia breviceps,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Kogia breviceps,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Kogia breviceps,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Kogia breviceps,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Kogia sima,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Kogia sima,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Kogia sima,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Kogia sima,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Kogia sima,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Kogia sima,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Kogia sima,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Kogia sima,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Kogia sima,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia sima,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia sima,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia sima,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia sima,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Kogia sima,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Kogia sima,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Kogia sima,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Kogia sima,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Kogia sima,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Kogia sima,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Kogia sima,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Kogia sima,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Kogia sima,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Kogia sima,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Delphinapterus leucas,87.5,85.0,90.0,Artico,1,distribuicao_prevista
+Delphinapterus leucas,82.5,80.0,85.0,Artico,1,distribuicao_prevista
+Delphinapterus leucas,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Delphinapterus leucas,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Delphinapterus leucas,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Delphinapterus leucas,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinapterus leucas,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinapterus leucas,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Delphinapterus leucas,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Delphinapterus leucas,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Delphinapterus leucas,37.5,35.0,40.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinapterus leucas,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinapterus leucas,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Delphinapterus leucas,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Delphinapterus leucas,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Delphinapterus leucas,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Delphinapterus leucas,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Delphinapterus leucas,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Delphinapterus leucas,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Delphinapterus leucas,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Delphinapterus leucas,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Delphinapterus leucas,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Delphinapterus leucas,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Delphinapterus leucas,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Delphinapterus leucas,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Pontoporia blainvillei,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Pontoporia blainvillei,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Pontoporia blainvillei,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Pontoporia blainvillei,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Pontoporia blainvillei,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Pontoporia blainvillei,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,37.5,35.0,40.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Pontoporia blainvillei,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Pontoporia blainvillei,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Pontoporia blainvillei,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Pontoporia blainvillei,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Pontoporia blainvillei,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Pontoporia blainvillei,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Pontoporia blainvillei,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Pontoporia blainvillei,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Pontoporia blainvillei,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Pontoporia blainvillei,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pontoporia blainvillei,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pontoporia blainvillei,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Pontoporia blainvillei,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pontoporia blainvillei,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pontoporia blainvillei,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Pontoporia blainvillei,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Pontoporia blainvillei,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Pontoporia blainvillei,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Pontoporia blainvillei,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Pontoporia blainvillei,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Pontoporia blainvillei,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Berardius bairdii,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Berardius bairdii,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Berardius bairdii,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Berardius bairdii,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Berardius bairdii,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Berardius bairdii,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Berardius bairdii,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Berardius bairdii,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Berardius bairdii,47.5,45.0,50.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Berardius bairdii,42.5,40.0,45.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Berardius bairdii,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Berardius bairdii,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Berardius bairdii,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Berardius bairdii,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Berardius bairdii,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Berardius bairdii,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Berardius bairdii,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Berardius bairdii,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Berardius bairdii,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Berardius bairdii,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Berardius bairdii,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Berardius bairdii,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Berardius bairdii,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Berardius bairdii,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Berardius bairdii,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Hyperoodon ampullatus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Hyperoodon ampullatus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Hyperoodon ampullatus,77.5,75.0,80.0,Artico,1,distribuicao_prevista
+Hyperoodon ampullatus,72.5,70.0,75.0,Artico,2,coberto_por_censo
+Hyperoodon ampullatus,67.5,65.0,70.0,Artico,2,coberto_por_censo
+Hyperoodon ampullatus,62.5,60.0,65.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Hyperoodon ampullatus,57.5,55.0,60.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Hyperoodon ampullatus,52.5,50.0,55.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Hyperoodon ampullatus,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Hyperoodon ampullatus,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Hyperoodon ampullatus,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Hyperoodon ampullatus,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Hyperoodon ampullatus,27.5,25.0,30.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Hyperoodon ampullatus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Hyperoodon ampullatus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon ampullatus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon ampullatus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon ampullatus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon ampullatus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Hyperoodon ampullatus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Hyperoodon ampullatus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Hyperoodon ampullatus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Hyperoodon ampullatus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Hyperoodon ampullatus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Hyperoodon ampullatus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Hyperoodon planifrons,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Hyperoodon planifrons,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Hyperoodon planifrons,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Hyperoodon planifrons,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Hyperoodon planifrons,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Hyperoodon planifrons,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,37.5,35.0,40.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,32.5,30.0,35.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,27.5,25.0,30.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Hyperoodon planifrons,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon planifrons,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon planifrons,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon planifrons,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon planifrons,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",0,fora_da_distribuicao
+Hyperoodon planifrons,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Hyperoodon planifrons,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Hyperoodon planifrons,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Hyperoodon planifrons,-62.5,-65.0,-60.0,Subantartico,2,coberto_por_censo
+Hyperoodon planifrons,-67.5,-70.0,-65.0,Antartica,2,coberto_por_censo
+Hyperoodon planifrons,-72.5,-75.0,-70.0,Antartica,2,coberto_por_censo
+Hyperoodon planifrons,-77.5,-80.0,-75.0,Antartica,2,coberto_por_censo
+Indopacetus pacificus,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Indopacetus pacificus,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Indopacetus pacificus,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Indopacetus pacificus,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Indopacetus pacificus,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Indopacetus pacificus,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Indopacetus pacificus,57.5,55.0,60.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Indopacetus pacificus,52.5,50.0,55.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Indopacetus pacificus,47.5,45.0,50.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Indopacetus pacificus,42.5,40.0,45.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Indopacetus pacificus,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Indopacetus pacificus,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Indopacetus pacificus,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Indopacetus pacificus,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Indopacetus pacificus,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Indopacetus pacificus,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Indopacetus pacificus,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Indopacetus pacificus,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Indopacetus pacificus,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Indopacetus pacificus,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",0,fora_da_distribuicao
+Indopacetus pacificus,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Indopacetus pacificus,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Indopacetus pacificus,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Indopacetus pacificus,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Indopacetus pacificus,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Indopacetus pacificus,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Mesoplodon densirostris,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Mesoplodon densirostris,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Mesoplodon densirostris,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Mesoplodon densirostris,72.5,70.0,75.0,Artico,0,fora_da_distribuicao
+Mesoplodon densirostris,67.5,65.0,70.0,Artico,0,fora_da_distribuicao
+Mesoplodon densirostris,62.5,60.0,65.0,"America do Norte, Europa e Asia",0,fora_da_distribuicao
+Mesoplodon densirostris,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,37.5,35.0,40.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,32.5,30.0,35.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Mesoplodon densirostris,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Mesoplodon densirostris,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Mesoplodon densirostris,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Mesoplodon densirostris,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Mesoplodon densirostris,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Mesoplodon densirostris,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",1,distribuicao_prevista
+Mesoplodon densirostris,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Mesoplodon densirostris,-52.5,-55.0,-50.0,Subantartico,0,fora_da_distribuicao
+Mesoplodon densirostris,-57.5,-60.0,-55.0,Subantartico,0,fora_da_distribuicao
+Mesoplodon densirostris,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Mesoplodon densirostris,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Mesoplodon densirostris,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Mesoplodon densirostris,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
+Ziphius cavirostris,87.5,85.0,90.0,Artico,0,fora_da_distribuicao
+Ziphius cavirostris,82.5,80.0,85.0,Artico,0,fora_da_distribuicao
+Ziphius cavirostris,77.5,75.0,80.0,Artico,0,fora_da_distribuicao
+Ziphius cavirostris,72.5,70.0,75.0,Artico,1,distribuicao_prevista
+Ziphius cavirostris,67.5,65.0,70.0,Artico,1,distribuicao_prevista
+Ziphius cavirostris,62.5,60.0,65.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Ziphius cavirostris,57.5,55.0,60.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Ziphius cavirostris,52.5,50.0,55.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Ziphius cavirostris,47.5,45.0,50.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Ziphius cavirostris,42.5,40.0,45.0,"America do Norte, Europa e Asia",1,distribuicao_prevista
+Ziphius cavirostris,37.5,35.0,40.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Ziphius cavirostris,32.5,30.0,35.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Ziphius cavirostris,27.5,25.0,30.0,"America do Norte, Europa e Asia",2,coberto_por_censo
+Ziphius cavirostris,22.5,20.0,25.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Ziphius cavirostris,17.5,15.0,20.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Ziphius cavirostris,12.5,10.0,15.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Ziphius cavirostris,7.5,5.0,10.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Ziphius cavirostris,2.5,0.0,5.0,"America Central, Norte da Africa e SE Asiatico",2,coberto_por_censo
+Ziphius cavirostris,-2.5,-5.0,0.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Ziphius cavirostris,-7.5,-10.0,-5.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Ziphius cavirostris,-12.5,-15.0,-10.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",2,coberto_por_censo
+Ziphius cavirostris,-17.5,-20.0,-15.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-22.5,-25.0,-20.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-27.5,-30.0,-25.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-32.5,-35.0,-30.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-37.5,-40.0,-35.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-42.5,-45.0,-40.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-47.5,-50.0,-45.0,"America do Sul, Africa Austral, Australia, NZ e Oceania",1,distribuicao_prevista
+Ziphius cavirostris,-52.5,-55.0,-50.0,Subantartico,1,distribuicao_prevista
+Ziphius cavirostris,-57.5,-60.0,-55.0,Subantartico,1,distribuicao_prevista
+Ziphius cavirostris,-62.5,-65.0,-60.0,Subantartico,0,fora_da_distribuicao
+Ziphius cavirostris,-67.5,-70.0,-65.0,Antartica,0,fora_da_distribuicao
+Ziphius cavirostris,-72.5,-75.0,-70.0,Antartica,0,fora_da_distribuicao
+Ziphius cavirostris,-77.5,-80.0,-75.0,Antartica,0,fora_da_distribuicao
